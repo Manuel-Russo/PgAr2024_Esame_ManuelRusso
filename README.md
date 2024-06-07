@@ -1,4 +1,4 @@
-PgAr2024_Esame_ < NomeCognome >
+PgAr2024_Esame_ Manuel Russo
 
 ## Candidato
 
